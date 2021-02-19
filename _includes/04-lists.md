@@ -1,1 +1,8 @@
-Replace this with a list of your favorite things.
+## Lista con cosas que estoy aprendiendo
+
+* Añadir encabezados
+* Incorporar imagenes
+* Añadir Links
+* Hacer Listas
+  * Ordenadas
+  * Desordenadas
